@@ -135,14 +135,3 @@ body {
 .navbar h1 a:hover {
     opacity: .6;
 }
-
-.buttons .hello h1 {
-    font-size: 1.175rem;
-    opacity: 0.4;
-}
-
-.buttons .hello img {
-    width: 20px;
-    height: 20px;
-    margin-right: 0.35rem;
-}
